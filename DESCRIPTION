@@ -1,0 +1,16 @@
+Package: linhadotempoviz
+Type: Package
+Title: Uma ferramenta para gerar uma linha do tempo interativa
+Version: 0.1.0
+Author: Mônica Rocabado Mazzolenis de Oliveira
+Maintainer: Mônica Rocabado Mazzolenis de Oliveira <mo.rocabado@gmail.com>
+Description: Uma ferramenta que permite um modelo de visualização de linha do tempo
+    interativa utilizando os pacotes ggplot2 e plotly
+License: GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
